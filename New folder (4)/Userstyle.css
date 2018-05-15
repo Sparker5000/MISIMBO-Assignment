@@ -1,0 +1,21 @@
++body{
++      padding-top: 70px;
++      padding-bottom: 70px; 
++}
++
++.sw-color-white{
++       color: white;	
+}
++
++.sw-full-width{
++      width: 100%;
++}
++
++a:hover{
+	   text-decoration: none;
++	   
++}
++.sw-left-padding{
+	     padding-left: 20px
++	     
++}

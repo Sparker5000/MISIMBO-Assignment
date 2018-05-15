@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"onmouseo",
+				"onmouseover\tAttr"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"body",
+				"bodyHeight"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgrund",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"for",
+				"formh1"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"Pho",
+				"photographer"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Sublime Text 3/Sparker5000 day2.html",
+		"/C/Users/student/Desktop/Sparkers Website image.jpg",
+		"/C/Users/student/AppData/Local/Temp/Temp1_bootstrap-4.0.0-dist.zip/css/bootstrap.css",
+		"/C/Users/student/Desktop/Sparker5000 day2.html",
+		"/C/Users/student/Desktop/Sparker500 HTML",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/student/Desktop/Sparker5000.HTML",
+		"/C/Users/student/Desktop/New Sparker. html.html",
+		"/C/Users/student/Desktop/shan3",
+		"/C/Users/student/Desktop/Home About/modern (1).css",
+		"/C/Users/student/Desktop/navbar-top/navbar-top.css",
+		"/C/Users/student/Desktop/RPG/css/album.css",
+		"/C/Users/student/Desktop/bootstrap-4.0.0/docs/4.0/examples/album/index.html",
+		"/C/Users/student/Desktop/RPG/index.html",
+		"/C/Users/student/Downloads/bootstrap-4.0.0.zip",
+		"/C/Users/student/Desktop/RPG/album.css",
+		"/C/Users/student/Desktop/RPG/bootstrap.min.css",
+		"/C/Users/student/Downloads/jquery.accordion-1.0.js",
+		"/C/Users/student/Desktop/Accordion 2/accordion-menu.css",
+		"/C/Users/student/Desktop/Accordion 2/index.html",
+		"/C/Users/student/Downloads/accordion-menu.css",
+		"/C/Users/student/Desktop/Accordion/accordion-menu.css",
+		"/C/Users/student/Desktop/Accordion/jquery.accordion-1.0.js",
+		"/C/Users/student/Desktop/Accordion/index.html",
+		"/C/Users/student/Desktop/jQuery Elements/index.html",
+		"/C/Users/student/Desktop/jQuery Elements/style.css",
+		"/C/Users/student/Desktop/JQuery Lab 3/index.html",
+		"/C/Users/student/Downloads/index (1).html",
+		"/C/Users/student/Desktop/Read More Links/index.html",
+		"/C/Users/student/Desktop/JQuery Lab 1/jQuery.js",
+		"/C/Users/student/Desktop/JQuery Lab 1/index.html",
+		"/C/Users/student/Desktop/Date Picker/datepicker.html",
+		"/C/Users/student/Desktop/Events/style.css",
+		"/C/Users/student/Desktop/Events/events.html",
+		"/C/Users/student/Desktop/Timed Event/arrays.html",
+		"/C/Users/student/Desktop/Timed Event/function.js",
+		"/C/Users/student/Desktop/Timed Event/style.css",
+		"/C/Users/student/Desktop/Prompt/loop.html",
+		"/E/Custom Video Control Bar/js/modernizr_custom.js",
+		"/E/Custom Video Control Bar/js/player.js",
+		"/E/Custom Video Control Bar/index.html",
+		"/C/Users/student/Desktop/Noodles/noodles.js",
+		"/C/Users/student/Desktop/Noodles/index.html",
+		"/C/Users/student/AppData/Roaming/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/C/Users/student/Desktop/calculatearea.js",
+		"/C/Users/student/Downloads/amimatimg.html",
+		"/C/Users/student/Desktop/animateIntevals/index.html",
+		"/C/Users/student/Desktop/COOKIES-JS/index.html",
+		"/C/Users/student/Desktop/navbar-top/index.html",
+		"/C/Users/student/Desktop/carousel1/index.html",
+		"/C/Users/student/Desktop/carousel1/carousel.css",
+		"/C/Users/student/AppData/Local/Temp/Temp1_bootstrap-4.0.0-beta.2.zip/bootstrap-4.0.0-beta.2/docs/4.0/examples/dashboard/dashboard.css",
+		"/C/Users/student/AppData/Local/Temp/Temp1_bootstrap-4.0.0-beta.2.zip/bootstrap-4.0.0-beta.2/docs/4.0/examples/dashboard/index.html",
+		"/C/Users/student/Desktop/bootstrap-4.0.0-beta.2.zip",
+		"/C/Users/student/Desktop/index (1).html",
+		"/C/Users/student/Desktop/SPARKLE/style.css",
+		"/C/Users/student/Desktop/responsive_design3/index.html",
+		"/C/Users/student/Desktop/SPARKLE/index.html",
+		"/C/Users/student/Desktop/Responsivedesign3-Twitterbootstrap/index.html",
+		"/C/Users/student/Desktop/navTransform_Grid_102717/style.css",
+		"/C/Users/student/Desktop/navTransform_Grid_102717/index.html",
+		"/C/Users/student/Downloads/CREATIVE INNOVATORS 102917.zip",
+		"/E/responsive/responsive.css",
+		"/E/responsive/index.html",
+		"/C/Users/student/Desktop/creativeresume/index.html",
+		"/C/Users/student/Desktop/creativeresume/css/modern.css",
+		"/C/Users/student/Desktop/gridfire2/css/modern.css",
+		"/C/Users/student/Desktop/gridfire2/index.html",
+		"/C/Users/student/Desktop/gridfire/index.html",
+		"/C/Users/student/Desktop/hellokittyworld/index.html",
+		"/C/Users/student/Desktop/gridfire/css/modern.css",
+		"/C/Users/student/Desktop/chanelz work/index.html",
+		"/C/Users/student/Desktop/Dbar/modern/modern.css",
+		"/C/Users/student/Desktop/Dbar/index (1).html",
+		"/C/Users/student/Desktop/mediaqueries/index.html",
+		"/C/Users/student/Desktop/mediaqueries/modern.css",
+		"/C/Users/student/Desktop/mediaqueries/modern2.css",
+		"/C/Users/student/Desktop/chanelz work/style.css",
+		"/C/Users/student/Desktop/hellokittyworld/hellokitty.css",
+		"/E/hellokittyworldsite/index.html",
+		"/C/Users/student/Desktop/Home About/index (1).html",
+		"/C/Users/student/Desktop/New Home/index.html",
+		"/C/Users/student/Desktop/Dynamic NAV/index.html",
+		"/C/Users/student/Desktop/Marcus Website/HTML/index1.html",
+		"/C/Users/student/Desktop/Challenge Website 1/index.html",
+		"/C/Users/student/Desktop/Fire Challenge 2/css/style.css",
+		"/C/Users/student/Desktop/quick fire challenge/contact.html",
+		"/C/Users/student/Desktop/Gal/index.html",
+		"/C/Users/student/Desktop/Morning Challenge/index.html",
+		"/C/Users/student/Desktop/Fire Challenge 2/index.html",
+		"/C/Users/student/Desktop/Imputs And Forms/style.css",
+		"/C/Users/student/Desktop/Imputs And Forms/index.html",
+		"/C/Users/student/Desktop/Home About/modern.css",
+		"/C/Users/student/Desktop/Dynamic NAV/CSS/modern.css",
+		"/C/Users/student/Desktop/New Home/css/style.css",
+		"/C/Users/student/Desktop/Marcus Website/index1.html",
+		"/C/Users/student/Desktop/Challenge Website 1/style.css",
+		"/C/Users/student/Desktop/dynamic image gallery/index.html",
+		"/C/Users/student/Desktop/dynamic image gallery/css/style.css",
+		"/C/Users/student/Desktop/New Home.zip",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/index.html",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/CSS/style.css",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/one.html",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/two.html",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/three.html",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/four.html",
+		"/C/Users/student/Desktop/Wednesday Chinna 10.04.2017/five.html",
+		"/E/WK 3/Project/style.css",
+		"/E/WK 3/Project/index.html",
+		"/C/Users/student/Desktop/Morning Challenge/style.css",
+		"/C/Users/student/Desktop/quick fire challenge/about.html",
+		"/C/Users/student/Desktop/quick fire challenge/content.html",
+		"/C/Users/student/Desktop/Gal/style.css",
+		"/C/Users/student/Desktop/Home About/register.html",
+		"/C/Users/student/Desktop/quick fire challenge/challenge.css",
+		"/C/Users/student/Desktop/Home About/about.html",
+		"/C/Users/student/Desktop/Home About/contact.html",
+		"/C/Users/student/Desktop/quick fire challenge/index.html",
+		"/C/Users/student/Desktop/Home About/modern/modern (1).css",
+		"/E/Dynamic NAV/register.html",
+		"/E/Dynamic NAV/about.html",
+		"/E/Dynamic NAV/contact.html",
+		"/E/Dynamic NAV/index.html",
+		"/E/Dynamic NAV/CSS/modern.css",
+		"/E/Chinnas Folder/WEEK 1/style.css",
+		"/E/Wednesday Sept 27 2017/index.html",
+		"/E/Inputs and Forms/style.css",
+		"/C/Users/student/Desktop/New Code/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JSC.sublime-build",
+	"project": "Sparkers Website Image2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
