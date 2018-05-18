@@ -1,3 +1,78 @@
 <p>
   website-new works!
 </p>
+body>
+	<!--Nav bar-->
+	<nav  class="row navbar navbar-dark bg-primary fixed-top">
+		<!--left nav-->
+		<div class="col-sm-4 d-none d-sm-block">
+	<div class="container-fluid">
+	        <a class="sw-font-white" routerLink="/user/;uid/website"><i class="fas fa-cevron-left"> </i></a>
+	        <a class="sw-font-white" routerLink="/user/:uid/website/new"><i class="fas fas fa-plus"> </i></a>
+	        
+	<div>
+</div>
+<!--Right nav-->
+<div class="col-md-8">
+	        <a class="sw-font-white" routerLink="/user/:uid/website/new"><b>New Website</b></a>
+
+	<a routerLink="#" class="sw-font-no-underline"> class="fas fa-check"></i></a>
+	<div>
+</div>
+</nav>
+<!--left website list-->
+<div class="row">	
+	<div class="col-sm-4-d-none d-sm-block">
+		<div class="container">
+			<ul class="list-group">
+				<li class="list-group-item"> 
+
+<a routerlink="user/:uid/website/:wid/page">MISIMBO</a>
+<a class="float-right" routertLink="website-edit.html"><i class="fas-fa-cogs"></i></a>
+          </li>
+          <li class="list-group-item">
+         <a routerlink="user/:uid/website/:wid/page">Address Book App</a></li>
+         <a class="float-right" routerLink="user/:uid/website/:wid/page"></i class= "fas fa-cog"></i></li>
+
+ <li class="list-group-item">
+ 	<a routerlink="user/:uid/website/:wid/page">Blogger</a>
+ 	<a class="float-right" routerLink="user/:uid/website/:wid"><i class="fas fa-cog"></i></a>
+
+ </li>       	
+ 	<li class="list-group-item">
+ 		<a routerLink="user/:uid/website/:wid/page">Blogging App</a>
+ 		<a class="float-right" routerLink="user/:uid/website/:wid"><i class="fas fa-cog"></i></a>
+ 	</li>
+ 	<li class="list-group-item">	
+ 		<a routerlink="user/:uid/website/:wid/page">Blogging App</a>
+ 		<a class="float-right" routerLink="user.:uid/website/:wid"><i class="fas fa-cog"></i></a>
+ 	</li>
+</ul> 		
+
+</div>	      
+</div>
+<!-- Right form -->
+<div class="col-md-8">
+	<div class="container-fluid">
+		<form>
+			<div class="container-fluid">
+				<form>
+					<div class="form-group">
+						<label><b>Name</b></label>
+						<input class="form-control" type="text" name="website-name" placeholder="Enter your website name">
+					</div>
+					<div class="form-group">
+					<label><b>Description</b></label>
+					<textarea row="5" class="form-control" placeholder="describe your website here"></textarea>	
+            </div>
+            <a routerLink="user/:uid/website" class="btn btn-danger">Cancel</a>
+            <a routerLink="user/:uid/website"  class="btn btn-success float right">Submit</a>
+        </form>
+     </div>
+    </div>
+    </div>
+    <footer class="navbar fixed-bottom navbar-dark bg-primary"> 
+       <div class="sw-full-width">
+           <a class="navbar-collapse float-right" routerLink="user/:uid"><i class="fas fa-user"></i></a> 
+        </div>
+      </footer>           

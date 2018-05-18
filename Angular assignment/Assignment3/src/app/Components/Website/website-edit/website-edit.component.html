@@ -1,2 +1,63 @@
 <p>website-edit works!!!</p>
+<!-- Navbar -->
+    <nav class="row navbar navbar-dark bg-primary fixed-top">
+    	   <!-- Left Navabr -->
+    	   <div class="col-sm-4 d-none d-md-block"> 
+    	   	      <a class="sw-color-white" routerLink=user/:uid/website"><i class="fas fa-chevron-left"></i></a>
+    	   	      <a class="sw-color-white sw-left-padding" routerLink="/user/:uid/website"><b>Websites</b></a>
+    	   	      <a class="sw-color-white float-right" routerLink="/user/:uid/website/new"> <i class="fas fa-plus"></i></a>
+    	   	</div>
+    	   	<!-- Right Navabar -->
+    	   	<div class="col-md-8"> 
+    	   	       <a class="sw-color-white" routerLink="/user/:uid/website/:wid"><b>Edit Website</b></a>
+    	   	</div>
+    	</nav> 
+    	<div class="row">
+            <!-- Left Website List -->
+    	<div class="col-md-4 d-none d-md-block">
+    	       <div class="container-fluid"> 
+    	               <ul class="list-group">
+    	                      <li class="list-group-item">       <a routerLink="user/:uid/website/:wid/page">Address Book App</a>
+    	                             <a class="float-right" routerLink="/user/:uid/website/:wid/"> <i class="fas fa-cog "></i></a>
+    	                        </li>
+    	                        <li class="list-group-item"> 
+    	                             <a routerLink="user/:uid/website/:wid/page">Blogger</a>
+    	                             <a class="float-right" routerLink="/user/:uid/website/:wid/page"><i class="fas fa-cog"></i></a>
+    	                        </li>
+    	                             <a routerLink="user/:uid/website/:wid/page">Blogging App</a>
+    	                             <a class="float-right" routerLink="/user/:uid/website/:wid/page"><i class="fas fa-cog">
+    	                        </i>
+    	                        <li class="list-group-item">
+    	                             <a routerLink="/user/:uid/website/::wid/page">Blogging App</a>
+    	                             <a class="float-right" routerLink="user/:uid/website/:wid"><i class="fas fa-cog">
+    	                        </li>
+    	                        <li class="list-group-item">
+    	                        	  <a routerLink="/user/:uid/website/:wid/page">Script Testing App</a>
+                                      <a class="float-right" routerLink="/user/:uid/website/:wid"><i class="fas fa-cog"></i></a>
+    	                        </li>
+    	                    </ul>
+    	                </div>
+    	                <!-- Right Form -->
+    	                <div class="col-md-8"> 
+    	                        <div class="container-fluid">
+    	                              <form>
+    	                                     <div class="form-group">
+    	                                     <label><b>Name</b></label>
+    	                                     <input class="form-control" type="text" name="website-name" placeholder="Enter your name.."></i></a>     	  
+    	                        </div>
+    	                        <div class="form-group">
+    	                        	<label><b>Description</b></label>
+    	                        	<textarea rows="5" class="form-control" placeholder="Describe your website here"> Lorem ipum dolor sit amet, conectetur  </textarea></i></a>
+    	                    </div>
+    	                    <a routerLink="" class="btn btn-danger">Delete</i></a>
+    	                    <a routerLink="#" class="btn btn-primary float-right">Update</a>
+    	                </form>
+    	            </div>
+    	        </div>
+    	    </div>
+    	    <footer class="navbar fixed-bottom navbar-dark bg-primary"> 
+    	             <div class="sw-full-width">
+    	                    <a class="navbar-brand float-right" routerLink="/user/:vid/website/:uid</"<i class="fas fa-user"></i></a>
+    	              </div>
+    	         </footer>                          
 

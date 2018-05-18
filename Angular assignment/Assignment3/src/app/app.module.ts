@@ -19,6 +19,7 @@ import { LoginComponent } from './Components/User/login/login.component';
 import { ProfileComponent } from './Components/User/profile/profile.component';
 import { RegisterComponent } from './Components/User/Reigister/register/register.component';
 
+import { Routing } from './app.routing';
 
 @NgModule({
   declarations: [
@@ -41,6 +42,7 @@ import { RegisterComponent } from './Components/User/Reigister/register/register
   ],
   imports: [
     BrowserModule
+    Routing,
   ],
   providers: [],
   bootstrap: [AppComponent]
