@@ -1,0 +1,86 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Edit Website</title>
+	<!-- Meta tags for making website for mobile-->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="viewport" content="initial-scale=1.25, user-scalable=no">
+	<!-- STYLE sheet comes after all the libraries are loaded. Document style-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="../loginstyle.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+</head>
+<body>
+	<nav class="row navbar navbar-dark cb-gray fixed-top">
+		<div class="col-sm-4 d-none d-sm-block">
+			<!--left nav-->
+			<div class="container-fluid">
+				<a class="cb-color-white" href="website-list.html"><i class="fas fa-chevron-left cb-color-white"></i></a>
+				<a class="cb-left-padding cb-no-underline" href="website-list.html">
+					<b class="cb-color-white">Websites</b></a>
+				<a class="cb-color-white float-right" href="website-new.html"><i class="fas fa-plus"></i></a>
+			</div>
+		</div>
+			<!--right nav-->
+		<div class="col-sm-8">
+			<div class="container">
+				<a class="cb-color-white cb-no-underline" href="website-list.html"><b>New Website</b></a>
+				<a href="website-list.html" class="float-right cb-color-white cb"><i class="fas fa-check"></i></a>
+			</div>
+		</div>
+	</nav>
+	<div class="row">
+				<div class="col-sm-4 d-none d-sm-block">
+				<div class="container-fluid">
+					<ul class="list-group">
+						<li class="list-group-item d-flex justify-content-between align-items-center">
+							<a href="../Page/page-list.html">MSIMBO</a>
+							<a class="float-right" href="website-edit.html"><i class="fas fa-cogs"></i></a>
+						</li>
+						<li class="list-group-item">
+							<a href="../Page/page-list.html">Address Book</a>
+							<a class="float-right" href="website-edit.html"><i class="fas fa-cogs"></i></a>
+						</li>
+						<li class="list-group-item">
+							<a href="../Page/page-list.html">Sparker5000</a>
+							<a class="float-right" href="website-edit.html"><i class="fas fa-cogs"></i></a>
+						</li>
+						<li class="list-group-item">
+							<a href="../Page/page-list.html">Sublime Instruction</a>
+							<a class="float-right" href="website-edit.html"><i class="fas fa-cogs"></i></a>
+						</li>
+					</ul>
+				</div>
+			</div>	
+				<!-- Right side form -->
+				<div class="col-sm-8">
+					<div class="container">
+						<form>
+							<div>
+								<label for="website-name"><b>Name</b></label>
+								<input class="form-control" type="text" name="website-name" placeholder="Type your website name"><br>
+							</div>
+							<!--website description-->
+							<div class="form-group">
+								<label for="website-name"><b>Description</b></label>
+								<textarea rows="3" class="form-control" placeholder="Input your description for this website"></textarea>
+							</div>
+							<a class="btn btn-success btn-block cb-submit-btn" href="website-list.html">Submit</a> 
+							<a class="btn btn-danger btn-block cb-submit-btn" href="website-list.html">Cancel</a> 
+						</form>
+					</div>
+				</div>
+	</div>
+			<nav class="navbar navbar-dark cb-gray fixed-bottom">
+			<div class="cb-width">
+			<a class="cb-color-white" href="../User/profile.html"><i class="fas fa-user float-right"></i></a>
+			</div>
+
+		</nav>	
+
+	</body>
+
+</html>	
